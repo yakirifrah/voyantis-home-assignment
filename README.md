@@ -40,7 +40,7 @@ A full-stack application that manages and displays message queues using React fo
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/yakirifrah/voyantis-home-assignment.git
 ```
 
 ### Client Instructions
